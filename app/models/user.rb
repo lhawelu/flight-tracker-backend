@@ -4,6 +4,7 @@ class User < ApplicationRecord
   has_many :bookings
   has_many :flights, through: :bookings
 
-  validates :username, :uniqueness
+  validates :username, uniqueness: true
+  validates :password, length: { minimum: 6 }
 
 end
