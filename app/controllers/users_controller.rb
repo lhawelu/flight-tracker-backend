@@ -16,7 +16,14 @@ class UsersController < ApplicationController
   end
 
   def my_bookings
-    bookings = User.find_by(id: @@user.id).bookings.map{|booking| [flight: booking.flight, seatNumber: booking.seat]}
+    bookings = User.find_by(id: @@user.id).bookings.map{|booking| {
+      id: booking.flight.id,
+      origin: booking.flight.origin,
+      destination: booking.flight.destination,
+      airline: booking.flight.airline,
+      flight_number: booking.flight.flight_number,
+      seatNumber: booking.seat
+    }}
     if bookings
       render json: bookings
     else
