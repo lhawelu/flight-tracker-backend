@@ -6,6 +6,7 @@ class BookingsController < ApplicationController
 
   def create
     booking = Booking.new(booking_params)
+    booking.user = @@user
     if booking.save
       render json: booking
     else
@@ -16,7 +17,7 @@ class BookingsController < ApplicationController
   private
 
   def booking_params
-    params.require(:booking).permit(:user_id, :flight_id, :seat)
+    params.require(:booking).permit(:flight, :seat)
   end
 
 end
