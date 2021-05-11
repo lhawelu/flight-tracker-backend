@@ -15,6 +15,15 @@ class UsersController < ApplicationController
     end
   end
 
+  def my_bookings
+    bookings = User.find_by(id: @@user.id).bookings.all
+    if bookings
+      render json: bookings
+    else
+      render json: { error: 'No flights booked' }
+    end
+  end
+
   private
 
   def user_params
