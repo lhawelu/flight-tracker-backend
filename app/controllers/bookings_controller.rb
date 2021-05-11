@@ -15,6 +15,16 @@ class BookingsController < ApplicationController
       render  json: { error: booking.errors.full_messages }
     end
   end
+
+  def destroy
+    booking = @@user.bookings.find_by(flight_id: params[:flight_id])
+    if booking.destroy
+      render json: { success: 'Booking deleted' }
+    else
+      render json: { error: 'Unable to delete booking' }
+    end
+  end
+  
   
   private
 
