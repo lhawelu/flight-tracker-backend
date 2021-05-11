@@ -10,18 +10,18 @@ class BookingsController < ApplicationController
     booking.flight_id = booking_params[:id]
     booking.seat = booking_params[:seatNumber]
     if booking.save
-      render json: booking
+      render json: booking, :status => :created
     else
-      render  json: { error: booking.errors.full_messages }
+      render  json: { error: booking.errors.full_messages }, :status => :bad_request
     end
   end
 
   def destroy
     booking = @@user.bookings.find_by(flight_id: params[:id])
     if booking.destroy
-      render json: { success: 'Booking deleted' }
+      render json: { success: 'Booking deleted' }, :status => :ok
     else
-      render json: { error: 'Unable to delete booking' }
+      render json: { error: 'Unable to delete booking' }, :status => :bad_request
     end
   end
   

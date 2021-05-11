@@ -25,9 +25,9 @@ class UsersController < ApplicationController
       seatNumber: booking.seat
     }}
     if bookings
-      render json: bookings
+      render json: bookings, :status => :ok
     else
-      render json: { error: 'No flights booked' }
+      render json: { error: 'No flights booked' }, :status => :no_content
     end
   end
 
