@@ -22,9 +22,9 @@ class UsersController < ApplicationController
       destination: booking.flight.destination,
       airline: booking.flight.airline,
       flight_number: booking.flight.flight_number,
-      seatNumber: booking.seat
-      arrival_time: booking.flight.arrival_time
-      departure_time: booking.flight.departure_time
+      seatNumber: booking.seat,
+      arrival_time: booking.flight.arrival_time,
+      departure_time: booking.flight.departure_time,
       aircraft: booking.flight.aircraft
     }}
     if bookings

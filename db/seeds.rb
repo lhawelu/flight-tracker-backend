@@ -8,4 +8,4 @@ airlines = ["United Airlines", "Delta Airlines", "Southwest Airlines", "Alaska A
 
 FlightGenerator.flights.each {|flight| Flight.create(flight)}
 
-5.times {User.create(first_name: Faker::Name.first_name , last_name: Faker::Name.last_name , username: Faker::Internet.username, password: "P@ssword!")}
+5.times { User.create(first_name: Faker::Name.first_name , last_name: Faker::Name.last_name , username: Faker::Internet.username, password: "P@ssword!", password_confirmation: "P@ssword!") }
