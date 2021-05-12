@@ -1,7 +1,7 @@
 class User < ApplicationRecord
   has_secure_password
 
-  has_many :bookings
+  has_many :bookings, :dependent => :destroy
   has_many :flights, through: :bookings
 
   validates :username, uniqueness: true
