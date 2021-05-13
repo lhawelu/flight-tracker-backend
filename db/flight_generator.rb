@@ -4,7 +4,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3440",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "8:50 PM PDT",
         destination: "LAX",
@@ -22,7 +22,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3671",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "7:59 PM PDT",
         destination: "LAX",
@@ -31,7 +31,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3486",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "7:25 PM PDT",
         destination: "LAX",
@@ -49,7 +49,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3105",
-        aircraft: "Bombardier CRJ-700",
+        aircraft: "Bombardier CRJ700",
         origin: "SFO",
         departure_time: "6:48 PM PDT",
         destination: "LAX",
@@ -76,7 +76,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3643",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "5:10 PM PDT",
         destination: "LAX",
@@ -85,7 +85,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3434",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "3:15 PM PDT",
         destination: "LAX",
@@ -94,7 +94,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3456",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "2:25 PM PDT",
         destination: "LAX",
@@ -112,7 +112,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3571",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "12:53 PM PDT",
         destination: "LAX",
@@ -130,7 +130,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3444",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "12:10 PM PDT",
         destination: "LAX",
@@ -139,7 +139,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3264",
-        aircraft: "Bombardier CRJ-700",
+        aircraft: "Bombardier CRJ700",
         origin: "SFO",
         departure_time: "10:40 AM PDT",
         destination: "LAX",
@@ -148,7 +148,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3432",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "10:00 AM PDT",
         destination: "LAX",
@@ -157,7 +157,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3698",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "9:24 AM PDT",
         destination: "LAX",
@@ -166,7 +166,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "4737",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "8:30 AM PDT",
         destination: "LAX",
@@ -175,7 +175,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3335",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "8:05 AM PDT",
         destination: "LAX",
@@ -193,7 +193,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3816",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "6:00 AM PDT",
         destination: "LAX",
@@ -202,7 +202,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3198",
-        aircraft: "Bombardier CRJ-700",
+        aircraft: "Bombardier CRJ700",
         origin: "SFO",
         departure_time: "6:00 AM PDT",
         destination: "LAX",
@@ -211,7 +211,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3318",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "6:00 AM PDT",
         destination: "LAX",
@@ -238,7 +238,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3325",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAX",
         departure_time: "6:15 PM PDT",
         destination: "SFO",
@@ -247,7 +247,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3700",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "LAX",
         departure_time: "5:37 PM PDT",
         destination: "SFO",
@@ -256,7 +256,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3295",
-        aircraft: "Bombardier CRJ-700",
+        aircraft: "Bombardier CRJ700",
         origin: "LAX",
         departure_time: "4:40 PM PDT",
         destination: "SFO",
@@ -265,7 +265,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3463",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAX",
         departure_time: "4:35 PM PDT",
         destination: "SFO",
@@ -292,7 +292,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3827",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "LAX",
         departure_time: "2:51 PM PDT",
         destination: "SFO",
@@ -301,7 +301,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3453",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAX",
         departure_time: "2:20 PM PDT",
         destination: "SFO",
@@ -310,7 +310,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3459",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAX",
         departure_time: "1:05 PM PDT",
         destination: "SFO",
@@ -319,7 +319,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "4646",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "LAX",
         departure_time: "10:47 AM PDT",
         destination: "SFO",
@@ -337,7 +337,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "4006",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "LAX",
         departure_time: "10:27 AM PDT",
         destination: "SFO",
@@ -346,7 +346,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3343",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAX",
         departure_time: "10:00 AM PDT",
         destination: "SFO",
@@ -355,7 +355,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3319",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAX",
         departure_time: "9:15 AM PDT",
         destination: "SFO",
@@ -373,7 +373,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3264",
-        aircraft: "Bombardier CRJ-700",
+        aircraft: "Bombardier CRJ700",
         origin: "LAX",
         departure_time: "8:19 AM PDT",
         destination: "SFO",
@@ -382,7 +382,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3634",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "LAX",
         departure_time: "7:00 AM PDT",
         destination: "SFO",
@@ -391,7 +391,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3435",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAX",
         departure_time: "7:00 AM PDT",
         destination: "SFO",
@@ -409,7 +409,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3324",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "8:15 PM PDT",
         destination: "SAN",
@@ -436,7 +436,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3330",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "5:55 PM PDT",
         destination: "SAN",
@@ -445,7 +445,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3348",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "3:45 PM PDT",
         destination: "SAN",
@@ -454,7 +454,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3302",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "12:45 PM PDT",
         destination: "SAN",
@@ -472,7 +472,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3368",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "8:50 AM PDT",
         destination: "SAN",
@@ -481,7 +481,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5279",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "8:30 AM PDT",
         destination: "SAN",
@@ -490,7 +490,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3300",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "7:00 AM PDT",
         destination: "SAN",
@@ -499,7 +499,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3361",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SAN",
         departure_time: "8:05 PM PDT",
         destination: "SFO",
@@ -508,7 +508,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3371",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SAN",
         departure_time: "5:55 PM PDT",
         destination: "SFO",
@@ -526,7 +526,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "4676",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SAN",
         departure_time: "3:52 PM PDT",
         destination: "SFO",
@@ -535,7 +535,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3355",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SAN",
         departure_time: "3:35 PM PDT",
         destination: "SFO",
@@ -544,7 +544,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3389",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SAN",
         departure_time: "1:25 PM PDT",
         destination: "SFO",
@@ -553,7 +553,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3413",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SAN",
         departure_time: "11:00 AM PDT",
         destination: "SFO",
@@ -580,7 +580,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3461",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SAN",
         departure_time: "6:30 AM PDT",
         destination: "SFO",
@@ -598,7 +598,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3388",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "4:35 PM PDT",
         destination: "PDX",
@@ -625,7 +625,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3482",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "9:45 AM PDT",
         destination: "PDX",
@@ -634,7 +634,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3381",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "7:00 AM PDT",
         destination: "PDX",
@@ -661,7 +661,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3342",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "PDX",
         departure_time: "2:55 PM PDT",
         destination: "SFO",
@@ -670,7 +670,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3483",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "PDX",
         departure_time: "12:10 PM PDT",
         destination: "SFO",
@@ -697,7 +697,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3431",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "PDX",
         departure_time: "6:35 AM PDT",
         destination: "SFO",
@@ -715,7 +715,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3722",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "5:40 PM PDT",
         destination: "SEA",
@@ -733,7 +733,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3599",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "2:59 PM PDT",
         destination: "SEA",
@@ -760,7 +760,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3716",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "10:30 AM PDT",
         destination: "SEA",
@@ -769,7 +769,7 @@ module FlightGenerator
     {
         airline: "Horizon",
         flight_number: "2257",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "9:25 AM PDT",
         destination: "SEA",
@@ -796,7 +796,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3566",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "6:30 AM PDT",
         destination: "SEA",
@@ -823,7 +823,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3560",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SEA",
         departure_time: "7:25 PM PDT",
         destination: "SFO",
@@ -850,7 +850,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3594",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SEA",
         departure_time: "2:10 PM PDT",
         destination: "SFO",
@@ -868,7 +868,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3751",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SEA",
         departure_time: "11:45 AM PDT",
         destination: "SFO",
@@ -904,7 +904,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3708",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SEA",
         departure_time: "7:15 AM PDT",
         destination: "SFO",
@@ -913,7 +913,7 @@ module FlightGenerator
     {
         airline: "Horizon",
         flight_number: "2071",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SEA",
         departure_time: "6:35 AM PDT",
         destination: "SFO",
@@ -922,7 +922,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5458",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "6:30 PM PDT",
         destination: "PHX",
@@ -949,7 +949,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3412",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "2:50 PM PDT",
         destination: "PHX",
@@ -1021,7 +1021,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3312",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "PHX",
         departure_time: "5:30 PM MST",
         destination: "SFO",
@@ -1075,7 +1075,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5437",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "PHX",
         departure_time: "7:18 AM MST",
         destination: "SFO",
@@ -1084,7 +1084,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5606",
-        aircraft: "Bombardier CRJ-200",
+        aircraft: "Bombardier CRJ200",
         origin: "SFO",
         departure_time: "6:25 PM PDT",
         destination: "TUS",
@@ -1093,7 +1093,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5442",
-        aircraft: "Bombardier CRJ-200",
+        aircraft: "Bombardier CRJ200",
         origin: "SFO",
         departure_time: "10:45 AM PDT",
         destination: "TUS",
@@ -1102,7 +1102,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5354",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "TUS",
         departure_time: "3:21 PM MST",
         destination: "SFO",
@@ -1111,7 +1111,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5856",
-        aircraft: "Bombardier CRJ-200",
+        aircraft: "Bombardier CRJ200",
         origin: "TUS",
         departure_time: "7:13 AM MST",
         destination: "SFO",
@@ -1120,7 +1120,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3408",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "8:15 PM PDT",
         destination: "LAS",
@@ -1138,7 +1138,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3438",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "6:15 PM PDT",
         destination: "LAS",
@@ -1156,7 +1156,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3326",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "1:25 PM PDT",
         destination: "LAS",
@@ -1192,7 +1192,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3471",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "10:00 AM PDT",
         destination: "LAS",
@@ -1201,7 +1201,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3438",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAS",
         departure_time: "8:30 PM PDT",
         destination: "SFO",
@@ -1210,7 +1210,7 @@ module FlightGenerator
     {
         airline: "Southwest",
         flight_number: "383",
-        aircraft: "Boeing 737-8 MAX",
+        aircraft: "Boeing 737 MAX 8",
         origin: "LAS",
         departure_time: "8:20 PM PDT",
         destination: "SFO",
@@ -1228,7 +1228,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3313",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAS",
         departure_time: "3:40 PM PDT",
         destination: "SFO",
@@ -1246,7 +1246,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3469",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAS",
         departure_time: "12:15 PM PDT",
         destination: "SFO",
@@ -1273,7 +1273,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3308",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "LAS",
         departure_time: "7:45 AM PDT",
         destination: "SFO",
@@ -1282,7 +1282,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3765",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "7:13 PM PDT",
         destination: "SLC",
@@ -1291,7 +1291,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5879",
-        aircraft: "Bombardier CRJ-700",
+        aircraft: "Bombardier CRJ700",
         origin: "SFO",
         departure_time: "6:26 PM PDT",
         destination: "SLC",
@@ -1327,7 +1327,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3448",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "10:10 AM PDT",
         destination: "SLC",
@@ -1336,7 +1336,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5631",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "8:55 AM PDT",
         destination: "SLC",
@@ -1363,7 +1363,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3765",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SLC",
         departure_time: "5:23 PM MDT",
         destination: "SFO",
@@ -1390,7 +1390,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3437",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SLC",
         departure_time: "11:35 AM MDT",
         destination: "SFO",
@@ -1408,7 +1408,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5736",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SLC",
         departure_time: "8:00 AM MDT",
         destination: "SFO",
@@ -1417,7 +1417,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5287",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SLC",
         departure_time: "6:00 AM MDT",
         destination: "SFO",
@@ -1480,7 +1480,7 @@ module FlightGenerator
     {
         airline: "Southwest",
         flight_number: "4602",
-        aircraft: "Boeing 737-8 MAX",
+        aircraft: "Boeing 737 MAX 8",
         origin: "SFO",
         departure_time: "6:10 AM PDT",
         destination: "DEN",
@@ -1543,7 +1543,7 @@ module FlightGenerator
     {
         airline: "Southwest",
         flight_number: "3765",
-        aircraft: "Boeing 737-8 MAX",
+        aircraft: "Boeing 737 MAX 8",
         origin: "DEN",
         departure_time: "1:20 PM MDT",
         destination: "SFO",
@@ -1588,7 +1588,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5448",
-        aircraft: "Bombardier CRJ-200",
+        aircraft: "Bombardier CRJ200",
         origin: "SFO",
         departure_time: "11:25 AM PDT",
         destination: "ABQ",
@@ -1597,7 +1597,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5439",
-        aircraft: "Bombardier CRJ-200",
+        aircraft: "Bombardier CRJ200",
         origin: "ABQ",
         departure_time: "3:58 PM MDT",
         destination: "SFO",
@@ -1606,7 +1606,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3366",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "SFO",
         departure_time: "6:45 PM PDT",
         destination: "BOI",
@@ -1615,7 +1615,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5327",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "SFO",
         departure_time: "6:25 PM PDT",
         destination: "BOI",
@@ -1624,7 +1624,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5328",
-        aircraft: "Bombardier CRJ-200",
+        aircraft: "Bombardier CRJ200",
         origin: "SFO",
         departure_time: "10:35 AM PDT",
         destination: "BOI",
@@ -1633,7 +1633,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5321",
-        aircraft: "Bombardier CRJ-200",
+        aircraft: "Bombardier CRJ200",
         origin: "BOI",
         departure_time: "4:55 PM MDT",
         destination: "SFO",
@@ -1642,7 +1642,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "3357",
-        aircraft: "Embraer 175",
+        aircraft: "Embraer E175",
         origin: "BOI",
         departure_time: "8:30 AM MDT",
         destination: "SFO",
@@ -1651,7 +1651,7 @@ module FlightGenerator
     {
         airline: "SkyWest",
         flight_number: "5745",
-        aircraft: "Embraer 170",
+        aircraft: "Embraer E170",
         origin: "BOI",
         departure_time: "7:00 AM MDT",
         destination: "SFO",
