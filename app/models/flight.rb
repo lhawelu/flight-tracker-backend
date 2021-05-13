@@ -234,20 +234,28 @@ class Flight < ApplicationRecord
     },
   ]
 
-
+  # available seats on flight
+  
   def flight_seats
+    # identify total number of seats per row
     seats_per_row = @@aircraft_data.find {|a| a[:name] == self.aircraft}[:seat_arrangement].split("-").map(&:to_i).inject(0){|sum,x| sum + x }
+    # total rows in plane capacity / seats_per_row
     total_rows = @@aircraft_data.find {|a| a[:name] == self.aircraft}[:max_capacity] / seats_per_row
+    # identify the seats that have already been booked
     booked_seats = self.bookings.pluck(:seat)
     all_seats = []
+    # loop to create all of the seat numbers based on the aircraft
     i = 1
     while i <= total_rows  do
       @@seat_letters.find {|s| s[:seat_count] == seats_per_row}[:letters].each{|letter| all_seats << "#{i}#{letter}"}
       i +=1
     end
+    # build the array for all the seats that have not been booked
     available_seats = all_seats.filter{|seat| seat if booked_seats.exclude?(seat)}
   end
 
+  # flight data with seats
+  
   def self.flight_with_available_seats
     @flights = Flight.all.map { |flight| 
       available_seats = flight.flight_seats
